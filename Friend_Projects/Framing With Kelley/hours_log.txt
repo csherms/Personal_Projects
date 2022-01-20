@@ -1,0 +1,19 @@
+// Hours Worked Tracker
+// start date: Wednesday, 10 November
+// starting wage: $15/hr
+// Pay Period = bi-weekly, every other friday
+
+
+
+(Nov19th, 2021){
+$450.00
+}
+
+
+(Nov.3, 2021){
+$???.??
+}
+
+
+/ Class Schedule
+210 Monday's 7:30
