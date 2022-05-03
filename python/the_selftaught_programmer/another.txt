@@ -1,0 +1,3 @@
+Making some more notes to test out the challenges.
+Lets see if we can make some updates to what I am doing.
+Yes indeed, it works but I have to put a new line break on the end of each previous sentence.

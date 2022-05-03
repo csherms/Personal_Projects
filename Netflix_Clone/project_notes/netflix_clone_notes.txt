@@ -1,0 +1,17 @@
+// TMDB
+csherms
+shorty12
+csehrms64@gmail.com
+
+// API Key from TMDB for pulling movies into app  (API Key (v3 auth))
+98e4122a19df608422c619b7cf77483b
+
+// API Key for checking in postman  (Example API Requestn)
+https://api.themoviedb.org/3/movie/550?api_key=98e4122a19df608422c619b7cf77483b
+
+// YouTube video link
+https://www.youtube.com/watch?v=XtMThy8QKqU&list=PLiqcoNvAkh0GLBHCoEvYUZg6e1_jQ71gV&index=4&t=9s
+progress: 2:10:09
+
+// Access deployed website URL:
+https://netflix-clone-65351.web.app
