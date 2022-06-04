@@ -2,3 +2,8 @@ always put the script for javascript in the head tags using "defer"
 instead of putting it at the bottom of the body
 
 <script src="./script.js" defer></script>
+
+// Pushing to github through the terminal
+git add .
+git commit -m "first_commmit"
+git push origin main
