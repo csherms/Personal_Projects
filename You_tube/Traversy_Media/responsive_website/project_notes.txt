@@ -1,0 +1,19 @@
+This is a simple HTML and CSS website I found on youtube to demonstrate the use of
+Jquery for responsive design and mobile first development
+
+// URL for youtube video:
+https://www.youtube.com/watch?v=XsEnj-1hG2o
+
+// How to use random images from unsplash:
+"https://source.unsplash.com/random/?nature,sky"  
+All you need is the "/random" part to generate random images
+but it is very helpful to set something like "/?nature,water" after the random part to get something specific.
+- Also you can size the image like this: "https://source.unsplash.com/random/900×700/?fruit"
+- You can use a specific image from unsplash and insert into a <div></div> by it's Id. 
+you want to use https://source.unsplash.com/imagesource  to do this
+you get "imagesource" by selecting the image on unsplash and copying the last part of the URL 
+
+// Jquery info:
+// Website: https://releases.jquery.com/
+You don't want to grab the slim version because it doesn't include the animate function. 
+So grab minified instead. Jquery 3 or higher
